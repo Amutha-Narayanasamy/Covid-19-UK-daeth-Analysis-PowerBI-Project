@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project aims to analyse Covid 19 UK, the dataset supplied by the UK Government, to perform the Power BI visualization which will help users to understand the whole condition
+This project aims to analyse Covid 19 UK, the dataset supplied by the UK Government, to perform the Power BI visualization which will help users to understand the whole condition.
 
 ## Tools
 Power BI desktop
